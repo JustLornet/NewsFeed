@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamBytesReader", "StreamBytesReader\StreamBytesReader.csproj", "{0FE5633E-2A73-47DE-B50E-82171C08FB7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamBytesReader.Tests", "StreamBytesReader.Tests\StreamBytesReader.Tests.csproj", "{BB409D32-1DBE-4879-B586-94BC03B17FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE5633E-2A73-47DE-B50E-82171C08FB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE5633E-2A73-47DE-B50E-82171C08FB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE5633E-2A73-47DE-B50E-82171C08FB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE5633E-2A73-47DE-B50E-82171C08FB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB409D32-1DBE-4879-B586-94BC03B17FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB409D32-1DBE-4879-B586-94BC03B17FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB409D32-1DBE-4879-B586-94BC03B17FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB409D32-1DBE-4879-B586-94BC03B17FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23AF6985-7DC4-441F-A324-7913FE4D83B9}
+	EndGlobalSection
+EndGlobal
